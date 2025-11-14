@@ -10,4 +10,4 @@
 
 💼 Services: Minecraft Plugins and Development
 📩 Contacts: @httpstormer (Manager on telegram)
-📊 Reviews: @xomakdev_reviews=
+📊 Reviews: @xomakdev_reviews
