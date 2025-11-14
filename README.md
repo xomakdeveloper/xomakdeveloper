@@ -1,6 +1,9 @@
 🛠 Main Stack: Java, Python, Luau
+
 🌐 Web Stack: TypeScript, React
+
 💿 Libraries: LWJGL, Lombok, Kyori Adventure
+
 📚 Learning: C++, JavaFX
 
 📌 projects.json: (on telegram)
