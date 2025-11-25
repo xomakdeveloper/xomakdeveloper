@@ -10,7 +10,7 @@
 
 📌 projects.json: (on telegram)
 
-• @factalityspc (In active development.)
+• @factalityspc (Suspended in development.)
 
 • @foreproject (Suspended in development, Diary: @foreproject_dev)
 
